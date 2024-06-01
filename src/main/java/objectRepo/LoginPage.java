@@ -5,7 +5,7 @@ package objectRepo;
 public class LoginPage {
 	
 		public void click() {
-			System.out.println("Login");
+			System.out.println("LoginPage");
 		}
 	}
 
