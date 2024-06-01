@@ -3,4 +3,11 @@
   <groupId>DemoAdvanceProject</groupId>
   <artifactId>PatchAutomation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>Qspider</groupId>
+  		<artifactId>AutomationFrameworkQCO-SOEAJD-E4</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
